@@ -1,0 +1,9 @@
+#main-content{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;    
+}
+
+#toggle-items a:hover{
+    background-color: darkgray;
+}
