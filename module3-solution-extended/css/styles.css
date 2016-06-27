@@ -1,0 +1,22 @@
+#main-content{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;    
+}
+
+#toggle-items a:hover{
+    background-color: darkgray;
+}
+
+body section{
+    text-align: justify;
+    padding-top: 1px;
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    .wrapper3{
+        margin: 1px;
+        padding: 10px;
+    }
+    
+}
